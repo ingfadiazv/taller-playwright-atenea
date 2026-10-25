@@ -21,3 +21,4 @@ test('get started link', async ({ page }) => {
 // tercer comentario de pruebasS
 // cuarto comentario de pruebasS
 // quinto comentario de pruebasSS
+// sexto comentario de pruebasSS
